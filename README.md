@@ -1,1 +1,1 @@
-Husk å sette inn URL for github her
+https://github.com/martin-bn/Prosjekt0
